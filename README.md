@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PandaaFX
 - 👀 I’m interested in coding stuff
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, Lua
 - 📫 How to reach me Discord: PandaaFX#9021
 
 <!---
